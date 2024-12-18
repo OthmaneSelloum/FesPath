@@ -1,4 +1,4 @@
-# A* Graph Theory Project 🚀
+#FesPath - A* Graph Theory Project 🚀
 
 Welcome to the **Mini Projet de théorie des graphes en utilisant A***! This project explores graph theory concepts and implements the A* algorithm to solve navigation problems in the beautiful city of Fès, Morocco.
 
